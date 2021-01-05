@@ -136,7 +136,7 @@
 #define configUSE_MALLOC_FAILED_HOOK            1
 #define configUSE_APPLICATION_TASK_TAG          0
 #define configUSE_COUNTING_SEMAPHORES           1
-#define configUSE_QUEUE_SETS                    0
+#define configUSE_QUEUE_SETS                    1
 #define configSUPPORT_STATIC_ALLOCATION         1
 #define configUSE_NEWLIB_REENTRANT              1
 #define configSTACK_DEPTH_TYPE                  size_t
